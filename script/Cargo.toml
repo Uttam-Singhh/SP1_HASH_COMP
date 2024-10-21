@@ -1,0 +1,11 @@
+[workspace]
+[package]
+name = "script"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sp1-sdk = "3.0.0"
+structopt = "0.3"
+hex = "0.4"
+bincode = "1.3"
